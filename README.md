@@ -15,5 +15,11 @@ pip install mysql-connector-python
 
 Once you have the connector installed, you can write a python script to connect to your MySQL database.
 
+You nee the following information:
+> host = 'your_host' e.g 'localhost'
+> user = 'your_username' e.g. 'root'
+> password = 'your_password' e.g '12345'
+> database = 'your_database_name' e.g. 'movies_db'
+
 
 
